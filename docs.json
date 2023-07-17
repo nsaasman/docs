@@ -1,5 +1,6 @@
 {
     "name": "docs.page",
+    "description": "My Project is a project that does awesome things.",
     "theme": "#36B9B9",
     "favicon": "/assets/favicon.ico",
     "logo": "/assets/home_light.png",
