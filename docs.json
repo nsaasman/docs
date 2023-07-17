@@ -2,15 +2,9 @@
     "name": "docs.page",
     "theme": "#36B9B9",
     "favicon": "/assets/favicon.ico",
-    "logo": "https://mycdn.com/awesome-logo.png",
-    "docsearch": {
-      "appId": "...",
-      "apiKey": "...",
-      "indexName": "..."
-    }
+    "logo": "/assets/home_light.png",
     "sidebar": [
       ["Home", "/"],
       ["Another Page", "/another-page"],
     ]
   }
-  
